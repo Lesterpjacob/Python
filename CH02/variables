@@ -1,0 +1,11 @@
+age = 45
+print(age)
+first_name = str(input("what is your name number 2?")
+print(f"nice to meet you {first_name}!!")
+
+#floor division # // so when dividing it will round down
+#f gives permissions to use {}
+age = input('please enter your age: ')
+print(age)
+next_year = age + 1
+print(f'next year you will be: {next_year}')

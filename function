@@ -1,0 +1,7 @@
+def triangle ():
+    print('   *   ')
+    print('  * *  ')
+    print(' * * * ')
+def tree_trunk ():
+    print('  * *  ')
+    print('  * *  ')
